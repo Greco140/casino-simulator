@@ -7,9 +7,25 @@ Tool developed at Marcelo Vázquez's Hack4u Academy (Aka. S4vitar) during the In
 
 ## Use:
 
-The first thing you should do is download the script called 'ruleta.sh' located in this repository. Once done, you can go to the folder where you downloaded it and start it with the following syntax:
+The first thing you should do is clone this repository with the following command:
+
+<code>git clone https://github.com/Greco140/casino-simulator.git</code>
+
+
+Once done, you can go to the folder with:
+
+<code>cd casino-simulator/</code>
+
+
+Now, give it permission to execute with:
+
+<code>chmod +x ruleta.sh</code>
+
+
+Now start it with the following syntax:
 
 <code>./ruleta.sh</code>
+
 
 Once this step is done, a menu like the one you can see in the image above will be displayed.
 
